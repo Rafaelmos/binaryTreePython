@@ -1,0 +1,34 @@
+Portuguese
+
+Trata-se de uma "ARVORE Binaria" feita por mim em 12/2019 e codificada em Python a partir do Pycharm 2019.3.
+
+Nela fiz um Menu para facilitar o uso das opções que se pode fazer com essa arvore, que é básicamente 
+"Imprimir a Arvore";
+"Buscar";
+"Adicionar nódulo";
+"Maximo" e "Minimo";
+"Contar nódulos"; 
+"Sucessor de um número";
+"Antecessor de um número";
+"Adicionar uma Lista";
+"Converter Arvore em Lista";
+"Remover nódulo";
+"Sair".
+
+-------------------------------------------------------------------------------------------------------------
+English
+
+It is a "binary TREE" made by me on 12/2019 and encoded in Python from Pycharm 2019.3.
+
+In it I made a Menu to facilitate the use of the options that can be made with this tree, which is basically
+"Print the Tree";
+"Search";
+"Add Node";
+"Maximum and minimum";
+"Count nodules";
+"Successor of a number";
+"Predecessor of a number";
+"Add a List";
+"Convert Tree to List";
+"Remove nodule";
+"Quit/Exit".
