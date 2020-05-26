@@ -1,3 +1,6 @@
 # Arvore-Binaria
-Binary Tree in Python, Árvore Binária em Python.
-Nessa Arvore possui menu intuitivo e de facil compreenção.
+Binary Tree programmed in Python.
+This Binary Tree has an simple and easy to understand menu.
+
+Árvore Binária programada na linguagem Python.
+Essa Arvore possui menu simples e de facil compreenção.
